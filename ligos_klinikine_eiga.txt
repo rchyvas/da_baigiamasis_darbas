@@ -1,0 +1,6 @@
+ligos_klinikine_eiga
+                 2
+aip              1
+lengva       16511
+sunki         3319
+vidutinė    129006
