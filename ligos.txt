@@ -4,13 +4,13 @@ Amebiazė                                                                       
 Amebų sukeltas nedizenterinis kolitas                                                                            10
 Ankstyvasis latentinis sifilis                                                                                  577
 Ankstyvasis sifilis                                                                                             161
-Ankstyvasis sifilis, nepatikslintas                                                                              26
+Ankstyvasis sifilis, nepatikslintas # similar                                                                             26
 Antrinis odos ir gleivinių sifilis                                                                              488
 Apatinių lytinių ir šlapimo takų chlamidijų sukelta infekcija                                                  5171
 Apatinių lytinių ir šlapimo takų gonokokinė infekcija be periuretrinių ar pridėtinių liaukų absceso            1345
 Askaridozė                                                                                                     2293
 Askaridozė be žarnyno komplikacijų                                                                              520
-Askaridozė, nepatikslinta                                                                                       210
+Askaridozė, nepatikslinta # similar                                                                                      210
 Bakterijų sukelta žarnyno infekcija, nepatikslinta                                                               58
 Balantidiazė                                                                                                      6
 Besimptomis užkrėstumas žmogaus imunodeficito [ŽIV] virusu                                                      983
@@ -21,7 +21,7 @@ Clostridium difficile sukeltas enterokolitas                                    
 Dauginė ūminė miliarinė tuberkuliozė                                                                             48
 Denge karštligė                                                                                                   5
 Denge karštligė be įspėjamųjų simptomų                                                                            4
-Denge karštligė, nepatikslinta                                                                                   12
+Denge karštligė, nepatikslinta # similar                                                                                  12
 Dengės karštligė [klasikinė dengė]                                                                               27
 Difilobotriozė                                                                                                    4
 Dėl žmogaus imunodeficito viruso [ŽIV] sukeltos ligos atsiradę piktybiniai navikai                                4
@@ -39,7 +39,7 @@ Enteropatogeninės Escherichia coli sukelta infekcija                           
 Enterotoksigeninės Escherichia coli sukelta infekcija                                                          1107
 Enterovirusų sukeltas meningitas                                                                                 18
 Erkių platinamas virusinis encefalitas                                                                          489
-Erkių platinamas virusinis encefalitas, nepatikslintas                                                         2291
+Erkių platinamas virusinis encefalitas, nepatikslintas # similar                                                        2291
 Gama pūslelinio viruso sukelta mononukleozė                                                                      56
 Gerklų, trachėjos ir bronchų tuberkuliozė, patvirtinta bakteriologiškai ir histologiškai                          9
 Giardiazė [liambliozė]                                                                                          230
@@ -52,7 +52,7 @@ Haemophilus influenzae sukelta infekcija, vieta nepatikslinta                   
 Haemophilus influenzae sukelta pneumonija                                                                        47
 Ikterohemoraginė leptospirozė                                                                                    23
 Infekcinė mononukleozė                                                                                           11
-Infekcinė mononukleozė, nepatikslinta                                                                             6
+Infekcinė mononukleozė, nepatikslinta # similar                                                                            6
 Kampilobakterijų sukeltas enteritas                                                                           16166
 Kaulų ir sąnarių tuberkuliozė                                                                                    33
 Kita infekcinė mononukleozė                                                                                       4
@@ -73,7 +73,7 @@ Kitos salmonelių sukeltos infekcijos                                           
 Kitos tuliaremijos formos                                                                                         4
 Kitų organų tuberkuliozė                                                                                          8
 Kokliušas                                                                                                        76
-Kokliušas, nepatikslintas                                                                                        35
+Kokliušas, nepatikslintas # similar                                                                                       35
 Kokliušas, sukeltas Bordetella pertussis                                                                        280
 Kriptosporidiozė                                                                                                 16
 Kvėpavimo organų tuberkuliozė, nepatikslinta, kai neminimas bakteriologinis ar histologinis patvirtinimas         4
@@ -82,7 +82,7 @@ Laimo (Lyme) liga                                                               
 Latentinis sifilis, nepatikslintas kaip ankstyvasis ar vėlyvasis                                                347
 Legioneliozė (Legionierių liga)                                                                                 191
 Leptospirozė                                                                                                     33
-Leptospirozė, nepatikslinta                                                                                      12
+Leptospirozė, nepatikslinta # similar                                                                                     12
 Listerijų sukeltas meningitas ir meningoencefalitas                                                              53
 Listerijų sukeltas sepsis                                                                                        32
 Lokalizuota salmonelių sukelta infekcija                                                                         27
@@ -91,7 +91,7 @@ Lytinių ir šlapimo takų tuberkuliozė                                        
 Lytiškai plintanti chlamidijų sukelta kitų lokalizacijų infekcija                                                17
 Lėtinis virusinis hepatitas B be delta veiksnio                                                                  60
 Lėtinis virusinis hepatitas C                                                                                  1916
-Lėtinis virusinis hepatitas, nepatikslintas                                                                      21
+Lėtinis virusinis hepatitas, nepatikslintas # probably missing info                                                                     21
 Mažojo dubens pilvaplėvės ir kitų lytinių ir šlapimo takų organų chlamidijų sukeltos infekcijos                  54
 Meningokokcemija, nepatikslinta                                                                                   4
 Meningokokinis meningitas                                                                                       233
@@ -136,7 +136,7 @@ Tachikardija, nepatikslinta                                                     
 Toksoplazminė okuliopatija                                                                                       24
 Toksoplazmozė                                                                                                    55
 Toksoplazmozė su kitų organų pažeidimu                                                                           67
-Toksoplazmozė, nepatikslinta                                                                                   1316
+Toksoplazmozė, nepatikslinta # similar                                                                                  1316
 Tolimųjų Rytų erkinis encefalitas [Rusijos pavasario-vasaros encefalitas]                                        78
 Trichineliozė                                                                                                    63
 Tuberkuliozinis pleuritas, patvirtintas bakteriologiškai ir histologiškai                                       258
@@ -161,7 +161,7 @@ Vėlyvasis latentinis sifilis                                                   
 Vėlyvasis sifilis, nepatikslintas                                                                                14
 Yersinia enterocolitica sukeltas enteritas                                                                     3340
 Šigeliozė                                                                                                        25
-Šigeliozė, nepatikslinta                                                                                         10
+Šigeliozė, nepatikslinta # similar                                                                                        10
 Šigeliozė, sukelta Shigella dysenteriae                                                                           8
 Šigeliozė, sukelta Shigella flexneri                                                                            115
 Šigeliozė, sukelta Shigella sonnei                                                                              228

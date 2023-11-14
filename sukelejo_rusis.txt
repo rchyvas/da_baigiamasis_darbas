@@ -1,7 +1,7 @@
 sukelejo_rusis
                                                               13
- Campylobacter spp.                                            3
- Salmonella spp.                                               5
+Campylobacter spp.                                             3
+Salmonella spp.                                                5
 ARRS                                                           1
 Adeno virusas                                               3894
 Adenovirusas                                                  18
