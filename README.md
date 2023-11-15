@@ -51,7 +51,11 @@ Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą
 
 <img width="423" alt="Screenshot 2023-11-15 at 21 25 48" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/db244f14-079c-4d2e-b2b6-cc436b5cf674">
 
+3. Suradome labiausiai paplitusių užkrečiamų ligų eigas ilguoju laikotarpiu;
 
+<img width="564" alt="Screenshot 2023-11-15 at 22 41 52" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/15f18304-f5a8-4fdb-af92-a40c3aed072e">
+
+4.
 
 ## ANALIZĖS IŠVADOS
 
