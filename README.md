@@ -33,7 +33,25 @@ Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą
 
 **ANALYSIS.PY**
 
--------------------
+**Panaudotos bibliotekos:** ------------
+
+1. Suradome penkias labiausiai paplitusias užkrečiamas ligas ir nusibraižėme jų grafiką;
+
+<img width="700" alt="Screenshot 2023-11-15 at 20 33 11" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/a96cc7be-333c-496d-bee5-877128fd04f5">
+
+2. Suradome labiausiai paplitusių užkrečiamų ligų tendencingumą pagal metus;
+
+<img width="423" alt="Screenshot 2023-11-15 at 21 33 35" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/a740bf3e-f05f-43b2-9c06-c9bceec50137">
+
+<img width="423" alt="Screenshot 2023-11-15 at 21 28 22" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/49b5cfe7-7c7b-412c-857b-0ef34c41bda5">
+
+<img width="423" alt="Screenshot 2023-11-15 at 21 27 36" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/3d2bc706-e58e-415f-ad4c-66397cbc3710">
+
+<img width="423" alt="Screenshot 2023-11-15 at 21 26 42" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/58fc9a60-0847-4f6c-9904-5d200b43e5ae">
+
+<img width="423" alt="Screenshot 2023-11-15 at 21 25 48" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/db244f14-079c-4d2e-b2b6-cc436b5cf674">
+
+
 
 ## ANALIZĖS IŠVADOS
 
