@@ -117,8 +117,6 @@ def itraukti_ligu_duomenis(conn_params, data):
     index = data.index
     records = data.values.tolist()
 
-    # print("-"*15)
-
     for i in records:
         cursor.execute(insert_stmt, i)
 
