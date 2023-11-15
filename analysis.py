@@ -31,6 +31,39 @@ def diagnoziu_kiekis_pagal_menesi(gal_diag):
     return ligu_duombaze[ligu_duombaze["galutine_diagnoze"] == gal_diag].groupby("pranesimo_menuo").size().reset_index(name='count')
 # print(diagnoziu_kiekis_pagal_menesi("Lėtinis virusinis hepatitas C"))
 
+
+df = diagnoziu_kiekis_pagal_menesi('Plaučių tuberkuliozė, patvirtinta skreplių mikroskopijos, su bakterijų kultūra ar be jos').set_index('pranesimo_menuo')
+
+
+temp_dict = df.to_dict()
+
+for i in range(2010,2024):
+    for j in range (1,13):
+        if datetime.date(i,j,1) not in temp_dict['count']:
+            temp_dict['count'][datetime.date(i,j,1)] = 0
+print('Galinis laikinas sarasas\n',temp_dict)
+fixed_df = pd.DataFrame.from_dict(temp_dict).reset_index(names=['pranesimo_menuo', 'count'])
+# fixed_df = fixed_df.set_index('men_pav')
+print('Pataisytas dataframe\n',fixed_df)
+
+
+fixed_df["pranesimo_menuo"]=pd.to_datetime(fixed_df["pranesimo_menuo"])
+
+temp_df = pd.DataFrame()
+for i in range(2010,2024):
+    temp_df[f'{i}'] = fixed_df[fixed_df['pranesimo_menuo'].dt.year == i]['count'].values
+men_pav = ['Sausis', 'Vasaris', 'Kovas', 'Balandis','Gegužė', 'Birželis', 'Liepa', 'Rugpjūtis', 'Rugsėjis', 'Spalis', 'Lapkritis', 'Gruodis']
+temp_df['mėnesis'] = men_pav
+temp_df = temp_df.set_index('mėnesis')
+print(temp_df)
+
+temp_df.plot.line(ylabel='Užsikrėtimų skaičius')
+plt.show()
+
+
+
+
+
 # diagnoziu_kiekis_pagal_menesi('Vėjaraupiai').plot.line(x='pranesimo_menuo', y='count', c='DarkBlue')
 # plt.show()
 #
