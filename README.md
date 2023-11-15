@@ -55,7 +55,7 @@ Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą
 
 <img width="564" alt="Screenshot 2023-11-15 at 22 41 52" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/15f18304-f5a8-4fdb-af92-a40c3aed072e">
 
-4. Suradome informaciją apie ligonių, sergančių labiausiai paplitusiomis užkrečiamomis ligomis gydymą 
+4. Suradome informaciją apie ligonių, sergančių labiausiai paplitusiomis užkrečiamomis ligomis, gydymą 
 
 <img width="425" alt="Screenshot 2023-11-16 at 00 16 34" src="https://github.com/rchyvas/da_baigiamasis_darbas/assets/149396134/c43f38a4-3445-4de8-ae65-fb0627336362">
 
