@@ -6,7 +6,7 @@ Baigiamasis projektas Vilnius Coding School duomenų analitikos ir python progra
 
 **Projekto tema:** Sergamumo užkrečiamomis ligomis analizė
 
-**Projekto tikslas:** Apžvelgti užkrečiamų ligų ir jų gydymo tendencingumą nuo 2010 metų iki dabar, (...)
+**Projekto tikslas:** Apžvelgti užkrečiamų ligų ir jų gydymo tendencingumą nuo 2010 metų iki dabar.
 
 Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą.
 
