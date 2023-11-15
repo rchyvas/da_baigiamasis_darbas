@@ -1,5 +1,4 @@
 import requests
-from bs4 import BeautifulSoup
 import psycopg2
 from psycopg2 import sql
 import pandas as pd
