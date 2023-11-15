@@ -130,9 +130,6 @@ def itraukti_ligu_duomenis(conn_params, data):
 
 # ligu_duomenys = data_scraping()
 
-# for entry in ligu_duomenys:
-#     print(entry)
-
 # itraukti_ligu_duomenis(conn_params, ligu_duomenys)
 columns = ['_id', 'centras', 'registravimo_vieta', 'miestas', 'galutine_diagnoze', 'ligonis_hospitalizuotas', 'socialiai_apdraustas', 'infekcijos_tipas', 'is_salies', 'ligos_klinikine_eiga', 'atvyk', 'kreip_diag', 'pranesimo_menuo', 'mirtis', 'sukelejo_rusis']
 
