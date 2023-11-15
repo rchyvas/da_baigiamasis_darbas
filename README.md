@@ -33,7 +33,7 @@ Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą
 
 **ANALYSIS.PY**
 
-**Panaudotos bibliotekos:** pandas, matplotlib, seaborn, datetime
+**Panaudotos bibliotekos:** pandas, matplotlib, seaborn, datetime, numpy
 
 1. Suradome penkias labiausiai paplitusias užkrečiamas ligas ir nusibraižėme jų grafiką;
 
