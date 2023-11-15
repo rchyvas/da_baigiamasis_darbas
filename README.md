@@ -1,35 +1,38 @@
-# da_baigiamasis_darbas
+# DA_BAIGIAMASIS_DARBAS
 
-**darbo autoriai:** [Roberta Lukaševičiūtė](https://github.com/rchyvas) ir [Julius Serbenta](https://github.com/Julius0991)
+Baigiamasis projektas Vilnius Coding School duomenų analitikos ir python programavimo pagrindų kursui
 
-baigiamasis projektas Vilnius Coding School duomenų analitikos ir python programavimo pagrindų kursui
+**Darbo autoriai:** [Roberta Lukaševičiūtė](https://github.com/rchyvas) ir [Julius Serbenta](https://github.com/Julius0991)
 
-**projekto tema:** sergamumo užkrečiamomis ligomis analizė
+**Projekto tema:** Sergamumo užkrečiamomis ligomis analizė
 
-**projekto tikslas:** apžvelgti užkrečiamų ligų ir jų gydymo tendencingumą nuo 2010 iki dabar, (...)
+**Projekto tikslas:** Apžvelgti užkrečiamų ligų ir jų gydymo tendencingumą nuo 2010 metų iki dabar, (...)
 
-darbas atliktas python kalba, panaudojant postgres duomenų bazę ir json failą iš nacionalinio visuomenės sveikatos centro duomenų bazės.
+Darbas atliktas Python kalba, panaudojant postgres duomenų bazę ir json failą.
 
-**naudojami importai:** requests, beautifulsoup4, psycopg2, json, pandas, matplotlib, numpy, seaborn
+## PROJEKTO SEKA
 
-## projekto seka
+**SKREIPINIMAS.PY**
 
-**skreipinimas.py**
+**Panaudotos bibliotekos:** requests, pandas, json
 
--------------------
+1. Suradome analizei reikalingus duomenis apie užkrečiamas ligas iš [Lietuvos atvirų duomenų portale](https://data.gov.lt/datasets/1852/) esančios [Nacionalinio visuomenės sveikatos centro užkrečiamų ligų duomenų bazės](https://get.data.gov.lt/datasets/gov/nvsc/uzkreciamos_ligos/atvejai/Bendrieji);
+2. Išsirinktus duomenis suformatavome .json formatu;
+3. Gauti duomenys buvo žodyno formato, todėl atsirinkome raktus, pagal kuriuos išsifiltravome duomenis;
+4. Duomenis iš skreipinimo eksportavome dataframe formatu
 
-**database.py**
-
--------------------
-
-**analysis.py**
-
--------------------
-
-**pagrindinis.py**
+**DATABASE.PY**
 
 -------------------
 
-## analizės išvados
+**ANALYSIS.PY**
+
+-------------------
+
+**PAGRINDINIS.PY**
+
+-------------------
+
+## ANALIZĖS IŠVADOS
 
 -------------------
