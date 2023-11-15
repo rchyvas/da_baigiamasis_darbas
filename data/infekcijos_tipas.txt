@@ -1,0 +1,6 @@
+infekcijos_tipas
+besimptomis ligos nešiojimas        124
+besimptomis viruso nešiojimas       637
+kita                                344
+lėtinė infekcija                  22582
+ūmi liga                         163686

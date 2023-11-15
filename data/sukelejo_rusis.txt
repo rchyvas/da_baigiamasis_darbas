@@ -1,0 +1,205 @@
+sukelejo_rusis
+                                                              13
+Campylobacter spp.                                             3
+Salmonella spp.                                                5
+ARRS                                                           1
+Adeno virusas                                               3894
+Adenovirusas                                                  18
+Ameba histolytica                                              3
+Anisakis                                                       2
+Ascaris                                                       98
+Ascaris lumbricoides                                        2941
+Bacillus                                                     170
+Bacillus anthracis                                             2
+Bacillus cereus                                                1
+Balantidium                                                    2
+Balantidium coli                                               4
+Beždžionių raupų virusas                                       3
+Blastocista                                                  123
+Blastocystis hominis                                          33
+Blastocystis sp.                                              15
+Bordetella                                                    15
+Bordetella pertussis                                         391
+Borrelia                                                      55
+Borrelia burgdorferi s. l.                                     5
+Borrelia burgdorferi s. l.:                                 8397
+Borrelia spp.                                               1733
+Brucella                                                       2
+Brucella abortus                                               2
+Brucella melitensis                                            1
+Brucella spp.                                                  3
+Campylobacter                                                115
+Campylobacter coli                                           345
+Campylobacter jejuni                                        8794
+Campylobacter lari                                             5
+Campylobacter spp.                                          6909
+Campylobacter upsaliensis                                      1
+Chlamydia                                                    116
+Chlamydia trachomatis                                       5472
+Citobacter spp.                                               47
+Citrobacter                                                    2
+Clebsiella                                                     4
+Clonorchis sinensis                                            6
+Clostridium                                                    2
+Clostridium botulinum                                          7
+Clostridium difficile                                       2095
+Clostridium perfringens                                        2
+Clostridium spp.                                              36
+Compylobacter spp.                                             3
+Cryptosporidium                                                2
+Cryptosporidium parvum                                         4
+Cryptosporidium spp.                                          11
+Dengė virusas                                                 22
+Dengės virusas                                                25
+Diphyllobothrium latum                                         4
+E. coli                                                       37
+E. coli O 157                                                  1
+E.coli                                                         1
+Ebola virusas                                                  8
+Echinococcus                                                  75
+Echinococcus granulosus                                      150
+Echinococcus multilocularis                                  118
+Echo virusai                                                   5
+Entamoeba                                                     33
+Entamoeba histolytica                                         29
+Enterobacter spp.                                             21
+Enterobis vermicularis                                         6
+Enterobius                                                    74
+Enterobius vermicularis                                    10836
+Enteroccocus faecalis                                          1
+Enterococcus faecium                                           2
+Enterovirus                                                   72
+Enterovirusas                                                  6
+Epideminio parotito virusas                                    1
+Epštein-Bar virusas                                           71
+Erkinio encefalito virusas                                  4016
+Escherichia                                                   81
+Escherichia coli                                            2935
+F.tularensis                                                   7
+Fasciola                                                       2
+Flaviviridae                                                1103
+Francisella                                                    1
+Giardia (Lamblia)                                            159
+Giardia lamblia (Lamblia intestinalis)                        67
+Gripo ir paragripo virusas                                    19
+Gripo virusas A                                              219
+Gripo virusas B                                               57
+Gripo virusas C                                                1
+Haemophilus (iš kraujo, likvoro)                              10
+Haemophilus influenzae (iš kraujo, likvoro)                  113
+Hepadnaviridae                                                 1
+Hepatito B virusas                                           176
+Hepatito C virusas                                          1126
+Klebsiella exytoca                                             1
+Klebsiella oxytoca                                             2
+Klebsiella pneumoniae                                          5
+Klebsiella spp.                                               92
+Lamblia intestinalis                                           2
+Legionella pneumophila                                       176
+Legionella spp.                                               15
+Leptospira alexanderi                                          1
+Leptospira interrogans                                        32
+Leptospira kirschneri                                          1
+Leptospira spp.                                               38
+Listeria                                                       8
+Listeria monocytogenes                                        74
+Mansonella spp.                                                1
+Morganella spp.                                                5
+Mycobacteria                                                 110
+Mycobacterium                                                856
+Mycobacterium bovis                                            2
+Mycobacterium tuberculosis                                  8909
+Neisseria                                                    150
+Neisseria gonorrhoeae                                       1341
+Neisseria meningitidis                                        28
+Neisseria meningitidis (iš kraujo                             13
+Neisseria meningitidis (iš kraujo, likvoro)                  675
+Noro virusas                                               12304
+Norovirusas                                                  283
+Norwalk virusas                                                1
+Opisthorchis viverrini                                         1
+Orthomyxoviridae                                               6
+Paramyxoviridae                                               18
+Plasmodium falciparum                                          2
+Plasmodium ovale                                               1
+Plasmodium spp.                                                2
+Pneumoniae                                                     1
+Poxviridae                                                     2
+Proteus mirabilis                                              6
+Proteus spp.                                                  18
+Pseudomona                                                    32
+Pseudomonas                                                    4
+Rabdovirus rabiei                                              1
+Rabies virusas                                                32
+Raupų virusas                                                  3
+Rhabdoviridae                                                  2
+Rota virusas                                                  53
+Rotavirusas                                                40547
+Roto virusas                                                7362
+S. aureus                                                    155
+S. aureus, atsparus meticilinui/ oksacilinui (MRSA)           50
+S. aureus, produkuojantis enterotoksiną                      136
+S. enterica subsp. arizonae                                    3
+S. enterica subsp. diarizonae                                  1
+S. enterica subsp. enterica                                 6776
+S. enterica subsp. houtenae                                   52
+S. enterica subsp. salamae                                     5
+S. enteritidis                                                22
+Salmonella                                                   166
+Salmonella C gr.                                               1
+Salmonella bovis                                               2
+Salmonella derby                                               1
+Salmonella enteritidis                                       307
+Salmonella spp.                                             8790
+Salmonella typhimurium                                        13
+Sarcoptes scabei va homnis                                    78
+Sarcoptes scabiei va. hominis                                 71
+Serratia spp.                                                 14
+Shigella                                                       2
+Shigella Flexneri                                            124
+Shigella dysenteriae                                           2
+Shigella sonnei                                              209
+Shigella spp.                                                 47
+Staphylococcus                                               587
+Staphylococcus                                                 4
+Streptococcus                                               1409
+Streptococcus pneumoniae                                     265
+Streptococcus pneumoniae (iš kraujo, likvoro)                438
+Streptococcus pneumoniae, atsparus penicilinui                 1
+Strongyloides stercoralis                                      4
+SŪRS-CoV-2 virusas (naujasis koronavirusas (2019-nCoV))       14
+Taenia                                                         4
+Toksoplasma gandii                                             1
+Toksoplazma                                                    2
+Toxocara                                                      48
+Toxocara canis                                                66
+Toxocara spp.                                                596
+Toxoplasma                                                    56
+Toxoplasma gondii                                           1402
+Treponema                                                    161
+Treponema pallidum                                          2172
+Trichinella spiralis                                          61
+Trichinella spp.                                               3
+Tymų virusas                                                 779
+Vakarų Nilo virusas                                           14
+Virusinės hemoraginės karštinės sukėlėjai                      2
+Vėjaraupių virusas                                         31249
+Yersinia entercolitica                                        14
+Yersinia enterocolitica                                     3124
+Yersinia pseudotuberculosis                                   20
+Yersinia spp.                                                496
+Yersinija                                                     36
+Yersinija entercolitica                                        9
+enterobius vermicularis                                      244
+erkinio encefaliito virusas                                    2
+erkinio encefalito virusas                                     1
+klebsiella pneumoniae                                          1
+meningitidis                                                   1
+proteus vulgaris                                               1
+rotavirusas                                                   10
+salmonella enteritidis                                        11
+ŽIV                                                            5
+ŽIV virusas                                                  648
+ŽIV virusas                                                  349
+ŽIV virusas I tipo antikūnai                                   1
+Žmogaus imunodeficito virusas 1                              756
