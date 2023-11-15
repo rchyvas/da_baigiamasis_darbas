@@ -69,4 +69,4 @@ Panašu, kad šias penkias ligas galima skirstyti į sezonines - kai kurios labi
 
 Stebint bendrą sergamumą, rotovirusų sukeltas enteritas yra ne tik dažniausiai pasitaikanti liga - jos sergamumo rodikliai taip pat yra labiausiai linkę staigiai pakilti ir staigiai nukristi. Taip pat grafike galima pastebėti ir Covid-19 įtaką, nes pandeminiu laikotarpiu visi nurodyti sergamumo rodikliai [ženkliai sumažėjo](https://user-images.githubusercontent.com/149396134/283242811-15f18304-f5a8-4fdb-af92-a40c3aed072e.png).
 
-Nagrinėjant sergamumo užkrečiamomis ligomis duomenis
+Nagrinėjant sergamumo užkrečiamomis ligomis duomenis taip pat matoma tendencija, jog vidaus ligos yra pavojingesnės negu išorinės, todėl tokie pacientai yra dažniau paliekami [gydymui ligoninėse](https://user-images.githubusercontent.com/149396134/283262794-c43f38a4-3445-4de8-ae65-fb0627336362.png).
