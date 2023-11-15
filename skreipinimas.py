@@ -1,11 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
-import psycopg2
 import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
 import json
-import urllib.request
+
 
 def data_scraping():
 
@@ -22,9 +18,9 @@ def data_scraping():
     df = pd.DataFrame(ligu_duomenu_lentele)
     df.columns =['_id','centras', 'registravimo_vieta', 'miestas','galutine_diagnoze','ligonis_hospitalizuotas','socialiai_apdraustas','infekcijos_tipas','is_salies','ligos_klinikine_eiga','atvyk','kreip_diag','pranesimo_menuo','mirtis','sukelejo_rusis']
 
-    pd.set_option('display.max_columns', 30)  # or 1000
-    pd.set_option('display.max_rows', 30)  # or 1000
-    pd.set_option('display.max_colwidth', 30)  # or 199
+    # pd.set_option('display.max_columns', 30)  # or 1000
+    # pd.set_option('display.max_rows', 30)  # or 1000
+    # pd.set_option('display.max_colwidth', 30)  # or 199
 
     return df
 
