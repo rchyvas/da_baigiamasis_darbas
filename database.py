@@ -159,12 +159,3 @@ def pasirinkti_ligos_duomenis(conn_params, table_name, columns=columns, conditio
     df.columns =['_id','centras', 'registravimo_vieta', 'miestas','galutine_diagnoze','ligonis_hospitalizuotas','socialiai_apdraustas','infekcijos_tipas','is_salies','ligos_klinikine_eiga','atvyk','kreip_diag','pranesimo_menuo','mirtis','sukelejo_rusis']
 
     return df
-
-# table_name = 'ligu_duomenys'
-# columns = ['_id', 'centras', 'registravimo_vieta', 'miestas', 'galutine_diagnoze', 'ligonis_hospitalizuotas', 'socialiai_apdraustas', 'infekcijos_tipas', 'is_salies', 'ligos_klinikine_eiga', 'atvyk', 'kreip_diag', 'pranesimo_menuo', 'mirtis', 'sukelejo_rusis']
-# conditions = ""
-# selected_data = pasirinkti_ligos_duomenis(conn_params, table_name, columns, conditions)
-# print(selected_data)
-
-# for row in selected_data:
-#     print(row)
