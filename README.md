@@ -8,7 +8,7 @@ Baigiamasis projektas Vilnius Coding School duomenų analitikos ir python progra
 
 **Projekto tikslas:** Apžvelgti užkrečiamų ligų ir jų gydymo tendencingumą nuo 2010 metų iki dabar, (...)
 
-Darbas atliktas Python kalba, panaudojant postgres duomenų bazę ir json failą.
+Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą.
 
 ## PROJEKTO SEKA
 
@@ -23,7 +23,13 @@ Darbas atliktas Python kalba, panaudojant postgres duomenų bazę ir json failą
 
 **DATABASE.PY**
 
--------------------
+**Panaudotos bibliotekos:** requests, psycopg2, pandas
+
+1. Duomenis iš skreipinimo.py failo importavome dataframe formatu;
+2. Prisijungėme prie Postgres duomenų bazės, kad galėtume sukurti duomenų bazę;
+3. Sukūrėme naują duomenų bazę, kad galėtume lokaliai saugoti atsisiųstus duomenis;
+4. Sukūrėme funkcijas, kurių pagalba duomenis sukėlėme į susikurtą duomenų bazę;
+5. Sukūrėme funkciją, kuri duomenis iš naujos duomenų bazės eksportavo dataframe formatu
 
 **ANALYSIS.PY**
 
