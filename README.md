@@ -35,10 +35,6 @@ Darbas atliktas Python kalba, panaudojant Postgres duomenų bazę ir json failą
 
 -------------------
 
-**PAGRINDINIS.PY**
-
--------------------
-
 ## ANALIZĖS IŠVADOS
 
 -------------------
