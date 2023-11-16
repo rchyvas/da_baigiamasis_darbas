@@ -5,10 +5,15 @@ import json
 
 def data_scraping():
 
+    # jungimasis prie reikiam url ir neformatuotų duomenų atsisiuntimas
+
     print("prisijungimas prie svetainės")
     url = "https://get.data.gov.lt/datasets/gov/nvsc/uzkreciamos_ligos/atvejai/Bendrieji"
     response = requests.get(url)
     print(response)
+
+    # išvestį formatuojame json formatu ir duomenis išsirenkame pagal stulpelius
+
     print('duomenų surinkimas')
     y=response.json()['_data']
     ligu_duomenu_lentele = []
@@ -22,6 +27,7 @@ def data_scraping():
     # pd.set_option('display.max_rows', 30)  # or 1000
     # pd.set_option('display.max_colwidth', 30)  # or 199
 
+    # duomenis eksportuojame dataframe formatu
     return df
 
 # print(data_scraping())

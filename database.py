@@ -4,6 +4,9 @@ from psycopg2 import sql
 import pandas as pd
 from skreipinimas import data_scraping
 
+# prisijungiame prie postgres duombazės, tada susikuriame naują duombazę ir jungiamės prie jos,
+# ir ten sukuriame lentele nuscrapintiems duomenims laikyti
+
 def connect_db():
     conn_params = {
         'dbname': 'postgres',
@@ -81,7 +84,7 @@ conn_params = {
     'port': 5432,
     'host': 'localhost'
 }
-
+# užkrečiamųjų ligų lentelės duomenų struktūros aprašymas
 table_name = 'ligu_duomenys'
 columns = {
     'id': 'serial PRIMARY KEY',
@@ -102,8 +105,11 @@ columns = {
     'sukelejo_rusis': 'VARCHAR(300)'
 }
 
+# mūsų duomenis atitinkančios lentelės sukūrimas
+
 # create_table(conn_params, table_name, columns)
 
+# duomenų įtraukimas į lentelę
 def itraukti_ligu_duomenis(conn_params, data):
 
     connection = psycopg2.connect(**conn_params)
@@ -131,6 +137,8 @@ def itraukti_ligu_duomenis(conn_params, data):
 # itraukti_ligu_duomenis(conn_params, ligu_duomenys)
 columns = ['_id', 'centras', 'registravimo_vieta', 'miestas', 'galutine_diagnoze', 'ligonis_hospitalizuotas', 'socialiai_apdraustas', 'infekcijos_tipas', 'is_salies', 'ligos_klinikine_eiga', 'atvyk', 'kreip_diag', 'pranesimo_menuo', 'mirtis', 'sukelejo_rusis']
 
+
+# duomenų paėmimas iš lokalios duomenų bazės
 def pasirinkti_ligos_duomenis(conn_params, table_name, columns=columns, conditions = None):
     connection = psycopg2.connect(**conn_params)
     cursor = connection.cursor()
